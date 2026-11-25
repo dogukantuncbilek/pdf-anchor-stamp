@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PdfAnchorStamp.Cli/PdfAnchorStamp.Cli.csproj" />
+    <Project Path="src/PdfAnchorStamp/PdfAnchorStamp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PdfAnchorStamp.Tests/PdfAnchorStamp.Tests.csproj" />
+  </Folder>
+</Solution>
